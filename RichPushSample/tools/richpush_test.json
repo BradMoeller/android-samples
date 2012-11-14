@@ -1,0 +1,15 @@
+
+{
+    "push": {
+        "android": {
+            "alert": "WAT!!!!!"
+        }
+    },
+    "users": ["9KpBv5zXSaC5JVQNwOwoTg"],
+    "title": "I AM LOVES YOU",
+    "message": "<h1>Sup Dogg</h1>",
+    "content-type": "text/html",
+    "extra": {
+        "some_key": "some_value"
+    }
+}
