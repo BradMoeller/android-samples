@@ -2,12 +2,12 @@
 {
     "push": {
         "android": {
-            "alert": "WAT!!!!!"
+            "alert": "Hi!"
         }
     },
     "users": ["9KpBv5zXSaC5JVQNwOwoTg"],
-    "title": "I AM LOVES YOU",
-    "message": "<h1>Sup Dogg</h1>",
+    "title": "Hello from Urban Airship",
+    "message": "<h1>Greetings</h1>",
     "content-type": "text/html",
     "extra": {
         "some_key": "some_value"
